@@ -1,4 +1,4 @@
-## Hi👋 , I’m @Caiojosue
+## Hi👋 , I’m Caio josue
 - 👀 I’m interested in Develop backend and data analysis
 - 🌱 I’m currently learning systems development
 
