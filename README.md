@@ -1,4 +1,8 @@
 ## Hi👋 , I’m Caio josue
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiojosue&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiojosue&layout=compact)
+
 - 👀 I’m interested in Develop backend and data analysis
 - 🌱 I’m currently learning systems development
 
